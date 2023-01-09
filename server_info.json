@@ -1,0 +1,37 @@
+{
+    "gmail.com": {
+        "domain": "smtp.gmail.com",
+        "port": 587,
+        "protocol": "TLS"
+    },
+    "naver.com": {
+        "domain": "smtp.naver.com",
+        "port": 587,
+        "protocol": "TLS"
+    },
+    "outlook.com": {
+        "domain": "smtp.outlook.com",
+        "port": 587,
+        "protocol": "TLS"
+    },
+    "yahoo.com": {
+        "domain": "smtp.mail.yahoo.com",
+        "port": 587,
+        "protocol": "TLS"
+    },
+    "daum.net": {
+        "domain": "smtp.daum.net",
+        "port": 465,
+        "protocol": "SSL"
+    },
+    "hanmail.net": {
+        "domain": "smtp.daum.net",
+        "port": 465,
+        "protocol": "SSL"
+    },
+    "nate.com": {
+        "domain": "smtp.mail.nate.com",
+        "port": 465,
+        "protocol": "SSL"
+    }
+}
